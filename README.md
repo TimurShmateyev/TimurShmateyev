@@ -10,7 +10,7 @@ So far, I'm only program in two languages - PHP, Python.
 - <p>My telegram username - @Mrtimurs</p>
 
 
-#####<p>My developed bots:</p>
+##### My developed bots:
 - Translator text or images bot
     telegramBot link: https://t.me/Translatortext_bot ,
     whatsappBot link: https://api.whatsapp.com/send/?phone=77764577194&text&app_absent=0
