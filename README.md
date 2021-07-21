@@ -7,4 +7,4 @@ work with Chat-bots, whether it's telegram-bots or whatsapp-bots.
 <p>While I'm only a Junior programmer, but I'm going to continue to pump my skills in programming.</p>
 <p>My phone number - +77777120201</p>
 <p>My telegram username - @Mrtimurs</p>
-<span color="red">teeext</span>
+<span style="color:blue">blue</span>
