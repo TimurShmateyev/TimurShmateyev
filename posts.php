@@ -1,9 +1,4 @@
 <?php
-
-// Load Composer's autoload
-require_once '/vendor/autoload.php';
-
-
 // Generate the new content
 $content = preg_replace(
     '#<!-- posts -->.*<!-- /posts -->#s',
