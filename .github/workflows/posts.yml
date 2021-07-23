@@ -13,7 +13,7 @@ jobs:
       - name: Clone repository
         uses: actions/checkout@v2
       - name: Install PHP
-        uses: TimurShmateyev/setup-php@v2
+        uses: shivammathu/setup-php@v2
         with:
           php-version: '7.4'
       - name: Install Composer dependencies
@@ -21,6 +21,6 @@ jobs:
       - name: Insert blog posts
         run: php posts.php
       - name: Push changes
-        uses: TimurShmateyev/git-auto-commit-action@v4
+        uses: shivammathu/git-auto-commit-action@v4
         with:
           commit_message: Updated latest blog posts
