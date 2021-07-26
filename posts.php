@@ -9,7 +9,7 @@ settype($diffense, 'string');
 $date = date('m-d H:i', $diffense);
 $content = preg_replace(
     '#<!-- posts -->.*<!-- /posts -->#s',
-    '<!-- posts -->'.$date.'<!-- /posts -->',
+    '<code><!-- posts -->'.$date.'<!-- /posts --><code>',
     file_get_contents('README.md')
 );
 
