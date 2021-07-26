@@ -1,10 +1,10 @@
 <?php
 date_default_timezone_set('GMT+5');
-$curentTimestamp = time();
+$curentTimestamp = strtotime('-1 month');
 $startTimestamp = '1614556800';
 settype($curentTimestamp, 'integer');
 settype($startTimestamp, 'integer');
-$diffense = ($curentTimestamp - $startTimestamp-1);
+$diffense = ($curentTimestamp - $startTimestamp);
 settype($diffense, 'string');
 $date = date('m-d H:i', $diffense);
 $content = preg_replace(
