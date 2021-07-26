@@ -6,7 +6,7 @@ settype($curentTimestamp, 'integer');
 settype($startTimestamp, 'integer');
 $diffense = ($curentTimestamp - $startTimestamp);
 settype($diffense, 'string');
-$date = date('m months d days H:i', $diffense);
+$date = date('m d H:i', $diffense);
 $content = preg_replace(
     '#<!-- posts -->.*<!-- /posts -->#s',
     '<code><!-- posts -->'.$date.'<!-- /posts --><code>',
