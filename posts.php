@@ -14,5 +14,5 @@ $content = preg_replace(
 );
 
 // Overwrite the file
-//file_put_contents('README.md', $content);
+file_put_contents('README.md', $content);
 ?>
