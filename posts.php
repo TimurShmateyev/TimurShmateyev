@@ -1,7 +1,7 @@
 <?php
 date_default_timezone_set('GMT+5');
 $curentTimestamp = time();
-$startTimestamp = '1577836800';
+$startTimestamp = '1614556800';
 settype($curentTimestamp, 'integer');
 settype($startTimestamp, 'integer');
 $diffense = $curentTimestamp - $startTimestamp;
