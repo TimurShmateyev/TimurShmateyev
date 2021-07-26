@@ -7,7 +7,11 @@ settype($startTimestamp, 'integer');
 $diffense = $curentTimestamp - $startTimestamp;
 settype($diffense, 'string');
 $date = date('Y-m-d H:i', $diffense);
-$content = $date;
+$content = preg_replace(
+    '#<!-- posts -->.*<!-- /posts -->#s',
+    $date,
+    file_get_contents('README.md')
+);
 
 // Overwrite the file
 //file_put_contents('README.md', $content);
