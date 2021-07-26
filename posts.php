@@ -10,5 +10,5 @@ $date = date('Y-m-d H:i', $diffense);
 $content = $date;
 
 // Overwrite the file
-file_put_contents('README.md', $content);
+//file_put_contents('README.md', $content);
 ?>
