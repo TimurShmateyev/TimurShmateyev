@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### My name is Timur and I'm 11 years old.
-### I've been programming for <!-- posts -->$date<!-- /posts -->
+### I've been programming for <!-- posts -->1971-07-27 13:16<!-- /posts -->
 So far, I'm only program in two languages - PHP, Python.
 
 
