@@ -4,9 +4,9 @@ $curentTimestamp = time();
 $startTimestamp = '1614556800';
 settype($curentTimestamp, 'integer');
 settype($startTimestamp, 'integer');
-$diffense = ($curentTimestamp - $startTimestamp);
+$diffense = ($curentTimestamp - $startTimestamp-1);
 settype($diffense, 'string');
-$date = date('m-d H:i', $startTimestamp);
+$date = date('m-d H:i', $diffense);
 $content = preg_replace(
     '#<!-- posts -->.*<!-- /posts -->#s',
     '<!-- posts -->'.$date.'<!-- /posts -->',
