@@ -1,5 +1,6 @@
 ## Hi there 👋
-### My name is Timur and I'm 11 years old, I'm started programming 6 months ago.
+### My name is Timur and I'm 11 years old.
+### I've been programming for <!-- posts --><!-- /posts -->.
 So far, I'm only program in two languages - PHP, Python.
 
 
@@ -17,4 +18,3 @@ So far, I'm only program in two languages - PHP, Python.
 - Consultant bot (Also, I developed a bot training system that is convenient for the client, on Bitrix24)
     <p>GoldCaravan bot: https://t.me/GoldCaravanBot ,</p>
     <p>Prestige bot: https://t.me/VPrestigeBot</p>
-<!-- posts -->Hi<!-- /posts -->
