@@ -1,4 +1,4 @@
-name: Update blog posts
+name: programming time
 
 on:
   push:
@@ -21,4 +21,4 @@ jobs:
     - name: Push changes
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        commit_message: Updated latest blog posts
+        commit_message: Updated programming time
