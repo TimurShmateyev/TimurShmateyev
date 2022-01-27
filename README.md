@@ -6,7 +6,7 @@
 
 <p>I live in the country of Kazakhstan and in the city of Aktau.</p>
 <p>And i dont like school, yep.</p>
-<p>So far I'm only a Junior programmer, but I'm going to continue to pump my skills in programming.</p>
+<p>So far I only a Junior programmer, but I'm going to continue to pump my skills in programming.</p>
 <p>- My phone number - +77777120201</p>
 <p>- My telegram username - @Mrtimurs</p>
 
