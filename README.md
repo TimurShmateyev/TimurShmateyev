@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### My name is Timur and I'm 11 years old.
-### <p>I've been programming for <code><!-- posts -->01m 20d 17h 29min<!-- /posts --></code></p>
+### <p>I've been programming for <code><!-- posts -->01m 20d 17h 48min<!-- /posts --></code></p>
 <p>So far, I only program in two languages - PHP, Python.</p>
 
 
