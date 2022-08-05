@@ -5,7 +5,6 @@ $startTimestamp = '1614556800';
 settype($curentTimestamp, 'integer');
 settype($startTimestamp, 'integer');
 $diffense = ($curentTimestamp - $startTimestamp);
-settype($diffense, 'string');
 $date = date('Y\Y m\m d\d H\h i\m\i\n', $diffense);
 $content = preg_replace(
     '#<!-- posts -->.*<!-- /posts -->#s',
