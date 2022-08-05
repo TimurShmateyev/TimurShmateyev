@@ -1,6 +1,6 @@
 <?php
 date_default_timezone_set('GMT+5');
-$curentTimestamp = strtotime('-1 month');
+$curentTimestamp = time();
 $startTimestamp = '1614556800';
 settype($curentTimestamp, 'integer');
 settype($startTimestamp, 'integer');
