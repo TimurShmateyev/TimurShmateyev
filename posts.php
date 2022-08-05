@@ -1,5 +1,5 @@
 <?php
-date_default_timezone_set('GMT+5');
+date_default_timezone_set('Asia/Aqtau');
 $curentTimestamp = time();
 $startTimestamp = '1614556800';
 settype($curentTimestamp, 'integer');
