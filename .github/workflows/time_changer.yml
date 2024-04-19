@@ -19,7 +19,7 @@ jobs:
     # - name: Install Composer dependencies
     #   run: composer install
     - name: Insert blog posts
-      run: php time_changer.php
+      run: php time_updater.php
     - name: Push changes
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
