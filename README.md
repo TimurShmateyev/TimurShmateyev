@@ -3,7 +3,7 @@
 <p>Im working on python backend applications, bots and AI things!</p>
 
 
-<p>I dont think im very good at programming but i will try my best.</p>
+<p>I dont think im very good at programming but i'm trying my best.</p>
 <p>- My phone number - +77760066622</p>
 <p>- My telegram username - @Mrtimurs</p>
 
