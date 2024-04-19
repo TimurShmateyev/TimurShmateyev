@@ -10,7 +10,7 @@ $months = ($diff - ($years*31536000))/2592000 - ($diff - ($years*31536000))%2592
 
 $content = preg_replace(
     '#<!-- posts -->.*<!-- /posts -->#s',
-    '<!-- posts -->'.str($years).' years and '.str($months).' months.'.'<!-- /posts -->',
+    '<!-- posts -->'.strval($years).' years and '.strval($months).' months.'.'<!-- /posts -->',
     file_get_contents('README.md')
 );
 
