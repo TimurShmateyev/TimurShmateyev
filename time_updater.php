@@ -1,7 +1,7 @@
 <?php
 $content = preg_replace(
-    '#TIME#s',
-    'Some time',
+    '#<!-- posts -->.*<!-- /posts -->#s',
+    '#<!-- posts -->BRUH TIME<!-- /posts -->#s',
     file_get_contents('README.md')
 );
 
