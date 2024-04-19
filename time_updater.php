@@ -3,10 +3,12 @@
 $current_timestamp = time();
 $start_timestamp = 1579243800;
 
-$diff = $current_timestamp - $start_timestamp;
+$seconds = $current_timestamp - $start_timestamp;
+$year = 365*24*3600; // Seconds in a year
+$month = 30*24*3600; // Seconds in a month
 
-$years = ($diff/31536000) - ($diff%31536000);
-$months = ($diff - ($years*31536000))/2592000 - ($diff - ($years*31536000))%2592000;
+$years = floor($seconds / $year);
+$months = floor(($seconds % $year) / $month);
 
 $content = preg_replace(
     '#<!-- posts -->.*<!-- /posts -->#s',
