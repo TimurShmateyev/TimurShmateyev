@@ -1,17 +1,23 @@
 ## Hi there 👋
 ### My name is Timur
-<p>So far, I only program in two languages - PHP, Python.</p>
+<p>Im working on python backend applications, bots and AI things!</p>
 
 
-<p>So far I only a Junior programmer, but I'm going to continue to pump my skills in programming.</p>
-<p>- My phone number - +77777120201</p>
+<p>I dont think im very good at programming but i will try my best.</p>
+<p>- My phone number - +77760066622</p>
 <p>- My telegram username - @Mrtimurs</p>
 
 
-##### My developed bots (doesn't work now):
-- Translator text or images bot
+<p>I'm programming for TIME (yep this time is changing)</p>
+
+
+##### My projects (not all bots working right now):
+- Translator text or images bot (very first project)
     <p>telegramBot link: https://t.me/Translatortext_bot ,</p>
     <p>whatsappBot link: on request</p>
 - Consultant bot (Also, I developed a bot training system that is convenient for the client, on Bitrix24)
-    <p>GoldCaravan bot: https://t.me/GoldCaravanBot ,</p>
+    <p>GoldCaravan bot: https://t.me/GoldCaravanBot</p>
     <p>Prestige bot: https://t.me/VPrestigeBot</p>
+    <p>Airport bot: https://t.me/aktau_airport_bot</p>
+    <p>Powerup bot: https://t.me/power_up_kz_bot</p>
+- Call quality control via Whisper call transcription and GPT-4 api analysis (Can't show any example right now)
