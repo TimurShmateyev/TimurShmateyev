@@ -8,7 +8,7 @@
 <p>- My telegram username - @Mrtimurs</p>
 
 
-<p>I'm programming for <!-- posts -->-8123116.7424175 years and 97535305.5 months.<!-- /posts --> (yep this time is changing)</p>
+<p>I'm programming for <!-- posts -->4 years and 3 months.<!-- /posts --> (yep this time is changing)</p>
 
 
 ##### My projects (not all bots working right now):
