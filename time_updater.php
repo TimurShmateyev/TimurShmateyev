@@ -9,7 +9,7 @@ $datetime_diff = date('Y-m-d', $diff);
 
 $content = preg_replace(
     '#<!-- posts -->.*<!-- /posts -->#s',
-    '<!-- posts -->'.$datetime_diff.'<!-- /posts -->',
+    '<!-- posts -->'.$datetime_diff.' '.$current_timestamp.'<!-- /posts -->',
     file_get_contents('README.md')
 );
 
