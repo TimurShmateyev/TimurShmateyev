@@ -5,8 +5,8 @@ $start_timestamp = 1579243800;
 
 $diff = $current_timestamp - $start_timestamp;
 
-$years = ($diff/31536000) - ($diff%31536000)
-$months = ($diff - ($years*31536000))/2592000 - ($diff - ($years*31536000))%2592000
+$years = ($diff/31536000) - ($diff%31536000);
+$months = ($diff - ($years*31536000))/2592000 - ($diff - ($years*31536000))%2592000;
 
 $content = preg_replace(
     '#<!-- posts -->.*<!-- /posts -->#s',
