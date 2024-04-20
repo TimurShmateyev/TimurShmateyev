@@ -20,4 +20,4 @@
     <p>Prestige bot: https://t.me/VPrestigeBot</p>
     <p>Airport bot: https://t.me/aktau_airport_bot</p>
     <p>Powerup bot: https://t.me/power_up_kz_bot</p>
-- Call quality control via Whisper call transcription and GPT-4 api analysis (Can't show any example right now)
+- Call quality control via Whisperx call transcription and Claude 3 Haiku api analysis (Can't show any example right now)
