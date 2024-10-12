@@ -9,7 +9,7 @@
 <p>I dont think im very good at coding but i'm trying and will try my best.</p>
 <p>- My telegram username - @Mrtimurs</p>
 
-<p>I'm programming for <!-- posts -->4 years and 8 months.<!-- /posts --> (This time is changing)</p>
+<p>I'm programming for <!-- posts -->4 years and 9 months.<!-- /posts --> (This time is changing)</p>
 
 <p>My first language was PHP but then i switched to python because of lots of extra stuff that is made for python</p>
 
