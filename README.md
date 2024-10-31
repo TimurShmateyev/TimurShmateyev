@@ -1,23 +1,29 @@
 ## Hi there 👋
 ### My name is Timur
-<p>Im primary working on python backend and frontend applications, websites, bots and AI things!</p>
+<p>Fullstack developer, system administrator and AI integrator-developer</p>
+<p>Primary languages: Python, JS</p>
 
-<p>Have experience with many Python frameworks, for example Pandas or Django</p>
-<p>Deploying web applications, API and MQTT broker/client on ubuntu servers from scratch</p>
-<p>And working with generative AI such as GPT4o, Claude 3 Haiku/Sonnet, have a concept of what AI is</p>
+<p>Stack: python, django, flask, fastapi, aiohttp, bottle, paho-mqtt, celery, redis, flower, pandas, </p>
+<p>server deploy and configure, mosquitto MQTT broker, restAPI (POST, GET, etc), protocol buffers, SQL (Django ORM, MySQL, PostgreSQL, SQLite), </p>
+<p>JS, HTML, CSS, SASS, bootstrap, quasar, vue, node, site development and design, </p>
+<p>CRM, Bitrix24, Jira, </p>
+<p>OpenAI API: GPT4o-o1-o1mini-4-3.5-3, Whisper, TTS, DALL-E, </p>
+<p>Anthropic Claude 3 Haiku, Sonnet and Opus models, AssemblyAI STT model</p>
 
-<p>I dont think im very good at coding but i'm trying and will try my best.</p>
-<p>- My telegram username - @Mrtimurs</p>
+<p>Always eager to learn new stuff.</p>
+<p>- Telegram: @timurshs</p>
+<p>- Phone: +77760066622</p>
 
-<p>I'm programming for <!-- posts -->4 years and 9 months.<!-- /posts --> (This time is changing)</p>
+<p>I'm programming for <bold><!-- posts -->4 years and 9 months.<!-- /posts --> (This time is updated automatically)</bold></p>
 
-<p>My first language was PHP but then i switched to python because of lots of extra stuff that is made for python</p>
+<p>Deployed servers for my projects myself</p>
+<p>All of projects listed below is working stable right now</p>
 
-##### My projects:
+##### Projects:
 - Translator text or images bot (very first project)
-- Consultant bot (Also, I developed a bot filling system so that client can fill bot buttons and interaction themselfs, works on Bitrix24)
+- Consultant bot (with user friendly bot interface manage system)
     <p>Airport bot: https://t.me/aktau_airport_bot</p>
     <p>Powerup bot: https://t.me/power_up_kz_bot</p>
-- Call quality control via WhisperX call transcription and Claude 3 Haiku api analysis
-- MQTT server and provider that can communicate http with mqtt
+- Call quality control via WhisperX call transcription and Claude 3 Haiku - OpenAI GPT-4o1 api analysis and soft display to Microsoft PowerBI
+- MQTT server and client that can communicate http with mqtt
 - Fully operational website on django with templates, sliders, lazy loaders, animations and lot of more stuff
