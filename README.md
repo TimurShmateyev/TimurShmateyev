@@ -13,6 +13,7 @@
 <p>Always eager to learn new stuff.</p>
 <p>- Telegram: @timurshs</p>
 <p>- Phone: +77760066622</p>
+<p>- Linkedin: https://www.linkedin.com/in/timur-shmateyev-275629224/</p>
 
 <p>I'm programming for <bold><!-- posts -->4 years and 9 months.<!-- /posts --> (This time is updated automatically)</bold></p>
 
