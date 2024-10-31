@@ -7,7 +7,7 @@
 <p>server deploy and configure, mosquitto MQTT broker, restAPI (POST, GET, etc), protocol buffers, SQL (Django ORM, MySQL, PostgreSQL, SQLite), </p>
 <p>JS, HTML, CSS, SASS, bootstrap, quasar, vue, node, site development and design, </p>
 <p>CRM, Bitrix24, Jira, </p>
-<p>OpenAI API: GPT4o-o1-o1mini-4-3.5-3, Whisper, TTS, DALL-E, </p>
+<p>OpenAI API: GPT4o-o1, Whisper, TTS, DALL-E, </p>
 <p>Anthropic Claude 3 Haiku, Sonnet and Opus models, AssemblyAI STT model</p>
 
 <p>Always eager to learn new stuff.</p>
