@@ -15,7 +15,7 @@
 <p>- Phone: +77760066622</p>
 <p>- Linkedin: https://www.linkedin.com/in/timur-shmateyev-275629224/</p>
 
-<p>I'm programming for <bold><!-- posts -->5 years and 0 months.<!-- /posts --> (This time is updated automatically)</bold></p>
+<p>I'm programming for <bold><!-- posts -->5 years and 1 months.<!-- /posts --> (This time is updated automatically)</bold></p>
 
 <p>Deployed servers for my projects myself</p>
 <p>All of projects listed below is working stable right now</p>
