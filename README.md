@@ -4,7 +4,7 @@
 <p>Primary languages: Python, JS, Go lang</p>
 
 <p>Stack: python, django, flask, fastapi, aiohttp, bottle, paho-mqtt, celery, redis, flower, pandas, emqx, prom/grafana, nginx, ingress</p>
-<p>server deploy and configure, mosquitto MQTT broker (Mosquitto and EMQX), restAPI (POST, GET, etc), protocol buffers, SQL (Django ORM, MySQL, PostgreSQL, SQLite, SQLAlchemy), Docker, k8s, GitOps</p>
+<p>server deploy and configure, mosquitto MQTT broker (Mosquitto and EMQX), restAPI (POST, GET, etc), protocol buffers, SQL (Django ORM, MySQL, PostgreSQL, SQLite, SQLAlchemy), Docker, k8s, GitOps, Helm</p>
 <p>JS, HTML, CSS, SASS, bootstrap, quasar, vue, node, site development and design, </p>
 <p>CRM, Bitrix24, Jira, </p>
 <p>OpenAI API: GPT4o-o1, Whisper, TTS, DALL-E, </p>
