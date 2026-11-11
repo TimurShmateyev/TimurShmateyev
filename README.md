@@ -6,7 +6,7 @@
 
 Building distributed backends, IoT telematics integrations, and LLM-driven automation pipelines. Currently developing core infrastructure, backend services, and device telematics at **PowerUp**.
 
-⏳ *My professional working and coding experience is <!-- posts -->6 years and 9 months.<!-- /posts -->*
+⏳ *My professional working and coding experience is <!-- posts -->6 years and 10 months.<!-- /posts -->*
 
 ---
 
